@@ -1,0 +1,27 @@
+.bg {
+  background: url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3IlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pic {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+#part-two {
+  margin-top: 10px;
+
+  display: none;
+}
+#qr-img {
+  width: 100px;
+  height: 100px;
+}
